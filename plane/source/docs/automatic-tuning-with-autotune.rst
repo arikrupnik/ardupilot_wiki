@@ -95,7 +95,7 @@ maximum deflection.
 
 So in the roll direction you should first command a hard right turn with
 the aileron stick, then shortly afterwards push the aileron stick hard
-the other way to command a hard left turn. Note that you do not need to
+the other way to command a hard left turn. Move the stick to its limit, and move it there quickly. Note that you do not need to
 wait for the plane to bank over all the way after each stick movement.
 After about 2 seconds of stick movement in one direction you can reverse
 the stick quickly.The plane will steer hard right, then hard left as you
@@ -105,7 +105,7 @@ to learn a reasonable tuning value.
 
 For pitch tuning you need to use the pitch transmitter stick to take the
 aircraft on a roller-coaster ride. Pull back hard on the stick to pitch
-up, then shortly afterwards push down to pitch down. Continue doing this
+up, then shortly afterwards push down to pitch down. Move the stick to its limit, and move it there quickly. Continue doing this
 for at least 20 iterations.
 
 If your initial tuning values were too low then you should notice the
