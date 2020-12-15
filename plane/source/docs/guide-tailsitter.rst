@@ -98,7 +98,7 @@ Motors are controlled by the M1-M4 outputs:
 
 Tricopter Tailsitter
 --------------------
-Motors are controller by the M1/M2/M4 outputs:
+Motors are controlled by the M1/M2/M4 outputs:
 
 .. image:: ../images/tri-copter-quadplane.jpg
     :width: 450px
