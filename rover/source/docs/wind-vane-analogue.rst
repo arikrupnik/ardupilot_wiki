@@ -7,7 +7,7 @@ Analogue Wind Vane
 This analogue voltage wind vane can be used with any sensor providing a analogue voltage linearly proportional to the wind direction.
 
 :ref:`WNDVN_TYPE <WNDVN_TYPE>` = 3, this wind vane relies on the reading voltage on a ADC pin defined by :ref:`WNDVN_DIR_PIN <WNDVN_DIR_PIN>`. The maximum and minimum voltage should be
-set. This can be done by manually by setting :ref:`WNDVN_DIR_V_MIN <WNDVN_DIR_V_MIN>` and :ref:`WNDVN_DIR_V_MAX <WNDVN_DIR_V_MAX>` but it is recommended that automatic calibration
+set. This can be done manually by setting :ref:`WNDVN_DIR_V_MIN <WNDVN_DIR_V_MIN>` and :ref:`WNDVN_DIR_V_MAX <WNDVN_DIR_V_MAX>` but it is recommended that automatic calibration
 is used. To trigger this the :ref:`WNDVN_CAL <WNDVN_CAL>` parameter should be set to one.  A message will appear saying "WindVane: Calibration started, rotate wind vane"
 the vane should then be slowly rotated for 30 seconds until "WindVane: Calibration complete" is seen. If the wind vane is set up correctly you should see the wind direction value
 increase as you turn the vane clockwise, it should reach both zero and 359 degrees. If this is not the case double check the sensor is wired such that a clockwise movement provides
