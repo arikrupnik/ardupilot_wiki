@@ -13,7 +13,7 @@ Most ground stations support commanding the vehicle to drive to a location speci
 
 - connect to the vehicle with a :ref:`telemetry radio <common-telemetry-landingpage>`
 - from the Flight Data screen, right-mouse-button click on the map and select "Fly To Here".
-- the vehicle will switch to Guided mode and attempted to drive to the location specified.
+- the vehicle will switch to Guided mode and attempt to drive to the location specified.
 - once at the destination it will hold position if a surface vehicle, or loiter/circle around the destination if it is a boat.
 
 .. image:: ../images/rover-guided-fly-to-here.png
